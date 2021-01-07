@@ -38,12 +38,12 @@ const theme = createMuiTheme({
 
 const translations = {
   zh: {
-    subTitle: '以太坊生态资源导航',
+    subTitle: '古灵生态资源导航',
     more: '一起发现更多新产品',
     submit: '提　交',
   },
   en: {
-    subTitle: 'A Portal to Ethereum Ecosystem',
+    subTitle: 'A Portal to Grin Ecosystem',
     more: 'Discover more new products',
     submit: 'Submit',
   }
@@ -68,7 +68,7 @@ class App extends React.Component {
 
   fetchTagList = async (navList) => {
     // const res = await get('/tagList.json');
-    const res = await get(`${jsonHost}/main/tagList.json`);
+    const res = await get(`${jsonHost}/tagList.json`);
     if (res && (res || []).length) {
       this.setState({
         tagList: res,
@@ -79,7 +79,7 @@ class App extends React.Component {
   fetchNavList = async () => {
     // const res = await get('/resource.json');
     // let startTime = new Date().getTime();
-    const res = await get(`${jsonHost}/main/resource.json`);
+    const res = await get(`${jsonHost}/resource.json`);
     if (res && (res || []).length) {
       // console.log('fetch resource times:', new Date().getTime() - startTime);
       this.setState({

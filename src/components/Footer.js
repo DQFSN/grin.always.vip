@@ -36,9 +36,10 @@ class Footer extends PureComponent {
             variant="contained"
             className="submitBtn"
             color="primary"
-            style={{ textTransform: 'none' }}
+
+            style={{ textTransform: 'none' , backgroundColor:"gold"}}
             onClick={() => {
-              window.open('https://github.com/SparkPoolOfficial/eth123.org/issues');
+              window.open('https://github.com/DQFSN/grin.always.vip/issues');
             }}
             >
             {t('submit')}
@@ -50,9 +51,9 @@ class Footer extends PureComponent {
           justifyContent="center"
           className={BoxStyle.footer_sponsored}>
           <div>Sponsored By&nbsp;</div>
-          <div style={{ color: "#ff7828" }}>
-            <Link href="https://www.sparkpool.com" underline="none">
-              SparkPool
+          <div style={{ color: "#ff7" }}>
+            <Link href="https://www.grin.mw" underline="none">
+              xiaojay
             </Link>
           </div>
         </Box>
