@@ -108,6 +108,18 @@
       "image":""
    },
    {
+      "name":"Grin爱好者中文社区",
+      "name_en":"grin.fan",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://grin.fan/",
+      "url_en":"https://grin.fan/",
+      "tag":"社区",
+      "tag_en":"Community",
+      "logo":"/imgs/community/grinfan.png",
+      "image":""
+   },
+   {
       "name":"Grinnode.live",
       "name_en":"Grinnode.live",
       "desc":"",
@@ -120,12 +132,12 @@
       "image":""
    },
    {
-      "name":"古灵官网",
-      "name_en":"grin.mw",
+      "name":"古灵论坛",
+      "name_en":"forum.grin.mw",
       "desc":"",
       "desc_en":"",
-      "url":"https://grin.mw",
-      "url_en":"https://grin.mw",
+      "url":"https://forum.grin.mw/",
+      "url_en":"https://forum.grin.mw/",
       "tag":"社区",
       "tag_en":"Community",
       "logo":"/imgs/community/grin.png",
