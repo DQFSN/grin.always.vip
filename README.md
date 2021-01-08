@@ -4,5 +4,6 @@
  
  欢迎加入Grin生态～
  
+ 赞助地址：
+ > Grin:  https://grin.gateio.live/deposit/gateiogrin/00246267658e1f90
  
- fork from https://github.com/SparkPoolOfficial/eth123.org
