@@ -168,6 +168,54 @@
       "image":""
    },
    {
+      "name":"鲸交所",
+      "name_en":"whaleex",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://w.whaleex.com.cn/",
+      "url_en":"https://w.whaleex.com.cn/",
+      "tag":"交易所",
+      "tag_en":"Exchange",
+      "logo":"/imgs/exchange/whaleex.png",
+      "image":""
+   },
+   {
+      "name":"BitForex",
+      "name_en":"BitForex",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://www.bitforex.com/",
+      "url_en":"https://www.bitforex.com/",
+      "tag":"交易所",
+      "tag_en":"Exchange",
+      "logo":"/imgs/exchange/BitForex.png",
+      "image":""
+   },
+   {
+      "name":"tradeogre",
+      "name_en":"tradeogre",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://tradeogre.com/markets",
+      "url_en":"https://tradeogre.com/markets",
+      "tag":"交易所",
+      "tag_en":"Exchange",
+      "logo":"/imgs/exchange/tradeogre.png",
+      "image":""
+   },
+   {
+      "name":"vite",
+      "name_en":"vite",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://x.vite.net/",
+      "url_en":"https://x.vite.net/",
+      "tag":"交易所",
+      "tag_en":"Exchange",
+      "logo":"/imgs/exchange/vite.png",
+      "image":""
+   },
+   {
       "name":"鱼池",
       "name_en":"F2pool",
       "desc":"",
