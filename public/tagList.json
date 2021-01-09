@@ -22,5 +22,9 @@
    {
       "tag":"交易所",
       "tag_en":"Exchange"
+   },
+   {
+      "tag":"资讯",
+      "tag_en":"News"
    }
 ]

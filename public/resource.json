@@ -120,6 +120,30 @@
       "image":""
    },
    {
+      "name":"电报群",
+      "name_en":"telegram",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://t.me/grinprivacy",
+      "url_en":"https://t.me/grinprivacy",
+      "tag":"社区",
+      "tag_en":"Community",
+      "logo":"/imgs/community/telegram.png",
+      "image":""
+   },
+   {
+      "name":"公众号",
+      "name_en":"Official Accounts",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MzA5MDQxMQ==&scene=124#wechat_redirect",
+      "url_en":"https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MzA5MDQxMQ==&scene=124#wechat_redirect",
+      "tag":"社区",
+      "tag_en":"Community",
+      "logo":"/imgs/community/WeChat.png",
+      "image":""
+   },
+   {
       "name":"Grinnode.live",
       "name_en":"Grinnode.live",
       "desc":"",
@@ -308,7 +332,31 @@
       "url_en":"https://grinscan.net/",
       "tag":"浏览器",
       "tag_en":"Explorer",
-      "logo":"/imgs/explorer/grinscan.png",
+      "logo":"/imgs/explorer/grin.png",
+      "image":""
+   },
+   {
+      "name":"Blockscan",
+      "name_en":"Blockscan",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://grin.blockscan.com/",
+      "url_en":"https://grin.blockscan.com/",
+      "tag":"浏览器",
+      "tag_en":"Explorer",
+      "logo":"/imgs/explorer/grin.png",
+      "image":""
+   },
+   {
+      "name":"Grin 周报",
+      "name_en":"Grin weekly",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://grinnews.substack.com/",
+      "url_en":"https://grinnews.substack.com/",
+      "tag":"资讯",
+      "tag_en":"News",
+      "logo":"/imgs/explorer/grin.png",
       "image":""
    }
 ]
