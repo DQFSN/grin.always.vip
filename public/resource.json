@@ -136,8 +136,8 @@
       "name_en":"Official Accounts",
       "desc":"",
       "desc_en":"",
-      "url":"https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MzA5MDQxMQ==&scene=124#wechat_redirect",
-      "url_en":"https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MzA5MDQxMQ==&scene=124#wechat_redirect",
+      "url":"http://always.vip/1.jpg",
+      "url_en":"http://always.vip/1.jpg",
       "tag":"社区",
       "tag_en":"Community",
       "logo":"/imgs/community/WeChat.png",
@@ -153,6 +153,18 @@
       "tag":"社区",
       "tag_en":"Community",
       "logo":"/imgs/community/Grinnode.png",
+      "image":""
+   },
+   {
+      "name":"Gitter",
+      "name_en":"Gitter",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://gitter.im/grin_community",
+      "url_en":"",
+      "tag":"社区",
+      "tag_en":"Community",
+      "logo":"/imgs/community/Gitter.png",
       "image":""
    },
    {
@@ -277,7 +289,7 @@
    },
    {
       "name":"哥布林矿池",
-      "name_en":"",
+      "name_en":"Goblinpool",
       "desc":"",
       "desc_en":"",
       "url":"http://goblinpool.com/",
