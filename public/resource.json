@@ -144,6 +144,18 @@
       "image":""
    },
    {
+      "name":"gringottsbank",
+      "name_en":"gringottsbank.io",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://gringottsbank.io",
+      "url_en":"https://gringottsbank.io/",
+      "tag":"社区",
+      "tag_en":"Community",
+      "logo":"/imgs/community/gringottsbank.png",
+      "image":""
+   },
+   {
       "name":"Grinnode.live",
       "name_en":"Grinnode.live",
       "desc":"",
