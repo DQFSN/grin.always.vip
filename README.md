@@ -16,6 +16,9 @@
 
 ### Build
 >npm run build
- ### 赞助地址|Sponsor address：
- > Grin:  https://grin.gateio.live/deposit/gateiogrin/00246267658e1f90
+ ### 赞助地址 | Sponsor address：
+ > Grin:  
  
+ > Eth : 0x04291113D52DB73a78A75a290Ab091CA816DFC43
+
+ > BTC : 16nqoHefwv8sBZMpd1D7jDnGFgizFn2qv
