@@ -17,7 +17,7 @@
 ### Build
 >npm run build
  ### 赞助地址 | Sponsor address：
- > Grin:  
+ > Grin(via tor network):  grin1396933wlcpnfgjug0fsdyj5ruqxy55hlqyy3jz2rrarpp96v5stqvq93vp
  
  > Eth : 0x04291113D52DB73a78A75a290Ab091CA816DFC43
 
